@@ -1,0 +1,5 @@
+Python 3.6
+TensorFlow 2
+NumPy
+Matplotlib
+Scikit-learn
